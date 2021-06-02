@@ -1,7 +1,7 @@
 #  Jon's Marking
 
 ### Please submit your jupyter notebooks in the corresponding folder with the correct file name.<br>
-The file names should be [email]ex[Y].ipynb  - [XX] is your strive email, [Y] is the exercise number.<br>
+The file names should be [email]ex[Y].ipynb  - [email] is your strive email, [Y] is the exercise number.<br>
 ## Example: 22ml1.ipynb
 
 # Tips
