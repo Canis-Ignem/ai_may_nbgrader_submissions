@@ -2,7 +2,7 @@
 
 ### Please submit your jupyter notebooks in the corresponding folder with the correct file name.<br>
 The file names should be [email]ex[Y].ipynb  - [email] is your strive email, [Y] is the exercise number.<br>
-## Example: 22ml1.ipynb
+## Example: jonperezetxebarria@gmail.compy1.ipynb
 
 # Tips
 NotImplementedError()s are just to throw an error if you've missed any exercises - replace them with your code<br>
